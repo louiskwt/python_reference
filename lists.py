@@ -1,6 +1,6 @@
 # A List is a collection which is ordered and changeable. Allows duplicate members.
 
-# create a list 
+# create a list  (equilvant to array)
 numbers = [1, 2, 3, 4, 5]
 fruits = ['Apples', 'Oranges', 'Watermelon', 'Strawberries']
 
@@ -28,7 +28,7 @@ fruits.pop(2)
 # Reverse the list
 fruits.reverse()
 
-# Sort list
+# Sort list ( in alphabetical order)
 fruits.sort()
 
 # Reverse sort
